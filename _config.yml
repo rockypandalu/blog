@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "gallery/"  
-  - JOURNAL: "journal/"
-  - ABOUT: "about/"
+  - GALLERY: "https://rockypandalu.github.io/blog/gallery/"  
+  - JOURNAL: "https://rockypandalu.github.io/blog/journal/"
+  - ABOUT: "https://rockypandalu.github.io/blog/about/"
 
 # All translation keys
 translations:
