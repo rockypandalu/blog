@@ -33,8 +33,8 @@ comments :
 
 # Internal nav
 nav:
+  - HOME: "https://rockypandalu.github.io/blog/"
   - GALLERY: "https://rockypandalu.github.io/blog/gallery/"  
-  - JOURNAL: "https://rockypandalu.github.io/blog/journal/"
   - ABOUT: "https://rockypandalu.github.io/blog/about/"
 
 # All translation keys
