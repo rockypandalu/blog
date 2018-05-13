@@ -1,16 +1,12 @@
 # Site settings
 title: Rocky's Home
-email: ""
+email: "yan.lu.rocky@gmail.com"
 description: "Coding & Photography"
 url: "https://rockypandalu.github.io"
 baseurl: "/blog"
 facebook_username: "rockypandalu"
-twitter_username: ""
 instagram_username: "rockypandalu"
 github_username:  "rockypandalu"
-deviantart_username: ""
-flickr_username: ""
-discus_shortname: ""
 share: true
 
 # Owner/author information
@@ -34,6 +30,7 @@ comments :
 # Internal nav
 nav:
   - HOME: "https://rockypandalu.github.io/blog/"
+  - Tech: "https://rockypandalu.github.io/blog/journal/"
   - GALLERY: "https://rockypandalu.github.io/blog/gallery/"  
   - ABOUT: "https://rockypandalu.github.io/blog/about/"
 
